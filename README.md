@@ -19,9 +19,9 @@
 <br>
 <br>
 
-## ⚡️ Stats
+## ⚡️ ꜱᴛᴀᴛꜱ : 
 
-[jitendra-unatti's GitHub stats](https://github-stats-alpha.vercel.app/api?username=jitendra-unatti&cc=000&tc=fff&ic=fff&bc=000)
+![Mitthu786's github stats](https://github-stats-alpha.vercel.app/api?username=jitendra-unatti&cc=000000&tc=ffffff&ic=ffffff&bc=000000)
 
 ## 🎓 Contribution Graph
 
