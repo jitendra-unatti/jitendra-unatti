@@ -1,3 +1,17 @@
+
+# Welcome to My Second Account
+
+Hello everyone! 👋
+
+This is my **second account**, and I wanted to let you know that you can check out my **main account** for more updates, posts, and content!
+
+👉 **Please visit my main account**: [https://github.com/Jitendraunatti](https://github.com/Jitendraunatti)
+
+Feel free to follow and stay updated on all the latest happenings there! 🚀
+
+Thank you for your support! 💙
+
+
 <h1 align="center">Hi 👋, I'm JITENDRA KUMAR</h1>
 <h4 align="center">
   ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ 🐍 <br>
